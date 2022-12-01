@@ -2,8 +2,8 @@
 ## Authors
 - [Abhinav Lugun](https://github.com/aal2015)
 - [Md. Sakib Bin Alam](https://github.com/SakibBinAlam)
-- [Pongraphe kangsanarak](https://github.com/Aoffyka)
-- Saw Lar Ka Paw
+- [PK](https://github.com/Aoffyka)
+- [Saw Lar Ka Paw](https://gitlab.com/sawlarkapaw.yu)
 - [Paramik Dasgupta](https://github.com/paramik123)
 - Set Khaing Oo
 
